@@ -57,5 +57,20 @@ TechSupport and OnlineSecurity play a major role in keeping customers. Users wit
 
 ---
 
+## Repository structure
+.
+├── data/
+│   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── telco_customer_churn_cleaned.csv
+├── notebooks/
+│   └── eda_analysis.ipynb
+├── assets/
+│   └── dashboard_preview.png
+├── .gitignore
+├── README.md
+└── dashboard.pbix
+
+---
+
 ## Note on project packaging
-This portfolio is packaged as a local repository containing visual preview, raw data files, Python notebooks, and the original Power BI file (.pbix).
+This portfolio is packaged as a local repository containing visual preview, raw data files, Python notebook, and the original Power BI file (.pbix).
