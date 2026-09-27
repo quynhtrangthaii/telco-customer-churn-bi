@@ -58,6 +58,10 @@ TechSupport and OnlineSecurity play a major role in keeping customers. Users wit
 ---
 
 ## Repository structure
+
+## Repository structure
+
+```text
 .
 ├── data/
 │   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
@@ -69,6 +73,7 @@ TechSupport and OnlineSecurity play a major role in keeping customers. Users wit
 ├── .gitignore
 ├── README.md
 └── dashboard.pbix
+```
 
 ---
 
