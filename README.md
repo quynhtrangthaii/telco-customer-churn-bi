@@ -4,7 +4,7 @@
 This project focuses on diagnosing and reducing customer churn for a telecommunications provider. Using Python for exploratory data analysis and Power BI Desktop for reporting, I built an executive dashboard to pinpoint where the company is losing money and how to keep customers from leaving.
 
 Key metrics:
-- Total customers: 7.04K
+- Total customers: 7.043K
 - Churned customers: 1.869K
 - Overall churn rate: 26.54%
 - Total revenue: $16.06M
