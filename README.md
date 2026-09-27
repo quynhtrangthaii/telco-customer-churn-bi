@@ -13,7 +13,7 @@ Key metrics:
 ---
 
 ## Dashboard preview
-
+![Executive Dashboard Preview](assets/dashboard_preview.png)
 ---
 
 ## How I built this project
