@@ -57,19 +57,5 @@ TechSupport and OnlineSecurity play a major role in keeping customers. Users wit
 
 ---
 
-## Repository structure
-
-telco-customer-churn-portfolio/
-├── data/
-│   └── telco_customer_churn_cleaned.csv
-├── notebooks/
-│   └── eda_analysis.ipynb
-├── assets/
-│   └── dashboard_preview.png
-├── Telco_Churn_Executive_Dashboard.pbix
-└── README.md
-
----
-
 ## Note on project packaging
 This portfolio is packaged as a local repository containing visual preview, raw data files, Python notebooks, and the original Power BI file (.pbix).
