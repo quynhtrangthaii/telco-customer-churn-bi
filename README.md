@@ -61,8 +61,6 @@ TechSupport and OnlineSecurity play a major role in keeping customers. Users wit
 
 ## Repository structure
 
-## Repository structure
-
 ```text
 .
 ├── data/
